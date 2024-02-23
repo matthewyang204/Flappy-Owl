@@ -2,7 +2,7 @@
 Flappybird but with an owl
 
 Command-line installation (for power users only, only for Macs):
-1. Download the script above to your downloads folder.
+1. Download the script above to your Downloads folder.
 2. Run
 ```
  sh ~/Downloads/install\ \(for\ macOS\ only\).sh
